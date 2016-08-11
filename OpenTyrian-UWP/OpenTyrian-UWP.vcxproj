@@ -214,11 +214,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\SDL-mirror\src\main\winrt\SDL_winrt_main_NonXAML.cpp">
-      <CompileAsWinRT Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</CompileAsWinRT>
-      <CompileAsWinRT Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">true</CompileAsWinRT>
-      <CompileAsWinRT Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</CompileAsWinRT>
-    </ClCompile>
     <ClCompile Include="opentyrian\animlib.c" />
     <ClCompile Include="opentyrian\arg_parse.c" />
     <ClCompile Include="opentyrian\backgrnd.c" />
@@ -271,6 +266,7 @@
     <ClCompile Include="opentyrian\video_scale.c" />
     <ClCompile Include="opentyrian\video_scale_hqNx.c" />
     <ClCompile Include="opentyrian\xmas.c" />
+    <ClCompile Include="SDL_winrt_main_NonXAML.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="opentyrian\animlib.h" />
