@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>ec222535-efe6-4a4e-b5cf-53b30adf87f9</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>d4817250-0575-40d3-8ff7-151f5f7ea0b6</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+    <Filter Include="Content">
+      <UniqueIdentifier>7b770e30-86a4-470d-b1f3-99e80ee1b383</UniqueIdentifier>
+    </Filter>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OpenTyrian-UWP_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\SDL-mirror\src\main\winrt\SDL_winrt_main_NonXAML.cpp" />
+    <ClCompile Include="opentyrian\animlib.c" />
+    <ClCompile Include="opentyrian\arg_parse.c" />
+    <ClCompile Include="opentyrian\backgrnd.c" />
+    <ClCompile Include="opentyrian\config.c" />
+    <ClCompile Include="opentyrian\config_file.c" />
+    <ClCompile Include="opentyrian\destruct.c" />
+    <ClCompile Include="opentyrian\editship.c" />
+    <ClCompile Include="opentyrian\episodes.c" />
+    <ClCompile Include="opentyrian\file.c" />
+    <ClCompile Include="opentyrian\font.c" />
+    <ClCompile Include="opentyrian\fonthand.c" />
+    <ClCompile Include="opentyrian\game_menu.c" />
+    <ClCompile Include="opentyrian\helptext.c" />
+    <ClCompile Include="opentyrian\joystick.c" />
+    <ClCompile Include="opentyrian\jukebox.c" />
+    <ClCompile Include="opentyrian\keyboard.c" />
+    <ClCompile Include="opentyrian\lds_play.c" />
+    <ClCompile Include="opentyrian\loudness.c" />
+    <ClCompile Include="opentyrian\lvllib.c" />
+    <ClCompile Include="opentyrian\lvlmast.c" />
+    <ClCompile Include="opentyrian\mainint.c" />
+    <ClCompile Include="opentyrian\menus.c" />
+    <ClCompile Include="opentyrian\mouse.c" />
+    <ClCompile Include="opentyrian\mtrand.c" />
+    <ClCompile Include="opentyrian\musmast.c" />
+    <ClCompile Include="opentyrian\network.c" />
+    <ClCompile Include="opentyrian\nortsong.c" />
+    <ClCompile Include="opentyrian\nortvars.c" />
+    <ClCompile Include="opentyrian\opentyr.c" />
+    <ClCompile Include="opentyrian\opl.c" />
+    <ClCompile Include="opentyrian\palette.c" />
+    <ClCompile Include="opentyrian\params.c" />
+    <ClCompile Include="opentyrian\pcxload.c" />
+    <ClCompile Include="opentyrian\pcxmast.c" />
+    <ClCompile Include="opentyrian\picload.c" />
+    <ClCompile Include="opentyrian\player.c" />
+    <ClCompile Include="opentyrian\scroller.c" />
+    <ClCompile Include="opentyrian\setup.c" />
+    <ClCompile Include="opentyrian\shots.c" />
+    <ClCompile Include="opentyrian\sizebuf.c" />
+    <ClCompile Include="opentyrian\sndmast.c" />
+    <ClCompile Include="opentyrian\sprite.c" />
+    <ClCompile Include="opentyrian\starlib.c" />
+    <ClCompile Include="opentyrian\std_support.c" />
+    <ClCompile Include="opentyrian\tyrian2.c" />
+    <ClCompile Include="opentyrian\varz.c" />
+    <ClCompile Include="opentyrian\vga_palette.c" />
+    <ClCompile Include="opentyrian\vga256d.c" />
+    <ClCompile Include="opentyrian\video.c" />
+    <ClCompile Include="opentyrian\video_scale.c" />
+    <ClCompile Include="opentyrian\video_scale_hqNx.c" />
+    <ClCompile Include="opentyrian\xmas.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="opentyrian\animlib.h" />
+    <ClInclude Include="opentyrian\arg_parse.h" />
+    <ClInclude Include="opentyrian\backgrnd.h" />
+    <ClInclude Include="opentyrian\config.h" />
+    <ClInclude Include="opentyrian\config_file.h" />
+    <ClInclude Include="opentyrian\destruct.h" />
+    <ClInclude Include="opentyrian\editship.h" />
+    <ClInclude Include="opentyrian\episodes.h" />
+    <ClInclude Include="opentyrian\file.h" />
+    <ClInclude Include="opentyrian\font.h" />
+    <ClInclude Include="opentyrian\fonthand.h" />
+    <ClInclude Include="opentyrian\game_menu.h" />
+    <ClInclude Include="opentyrian\helptext.h" />
+    <ClInclude Include="opentyrian\hg_revision.h" />
+    <ClInclude Include="opentyrian\joystick.h" />
+    <ClInclude Include="opentyrian\jukebox.h" />
+    <ClInclude Include="opentyrian\keyboard.h" />
+    <ClInclude Include="opentyrian\lds_play.h" />
+    <ClInclude Include="opentyrian\loudness.h" />
+    <ClInclude Include="opentyrian\lvllib.h" />
+    <ClInclude Include="opentyrian\lvlmast.h" />
+    <ClInclude Include="opentyrian\mainint.h" />
+    <ClInclude Include="opentyrian\menus.h" />
+    <ClInclude Include="opentyrian\mouse.h" />
+    <ClInclude Include="opentyrian\mtrand.h" />
+    <ClInclude Include="opentyrian\musmast.h" />
+    <ClInclude Include="opentyrian\network.h" />
+    <ClInclude Include="opentyrian\nortsong.h" />
+    <ClInclude Include="opentyrian\nortvars.h" />
+    <ClInclude Include="opentyrian\opentyr.h" />
+    <ClInclude Include="opentyrian\opl.h" />
+    <ClInclude Include="opentyrian\palette.h" />
+    <ClInclude Include="opentyrian\params.h" />
+    <ClInclude Include="opentyrian\pcxload.h" />
+    <ClInclude Include="opentyrian\pcxmast.h" />
+    <ClInclude Include="opentyrian\picload.h" />
+    <ClInclude Include="opentyrian\player.h" />
+    <ClInclude Include="opentyrian\scroller.h" />
+    <ClInclude Include="opentyrian\setup.h" />
+    <ClInclude Include="opentyrian\shots.h" />
+    <ClInclude Include="opentyrian\sizebuf.h" />
+    <ClInclude Include="opentyrian\sndmast.h" />
+    <ClInclude Include="opentyrian\sprite.h" />
+    <ClInclude Include="opentyrian\starlib.h" />
+    <ClInclude Include="opentyrian\std_support.h" />
+    <ClInclude Include="opentyrian\tyrian2.h" />
+    <ClInclude Include="opentyrian\varz.h" />
+    <ClInclude Include="opentyrian\vga_palette.h" />
+    <ClInclude Include="opentyrian\vga256d.h" />
+    <ClInclude Include="opentyrian\video.h" />
+    <ClInclude Include="opentyrian\video_scale.h" />
+    <ClInclude Include="opentyrian\xmas.h" />
+  </ItemGroup>
+</Project>
