@@ -10,4 +10,5 @@ Runs decently on desktops, but also runs very well on the Xbox One, if you have 
 # Credits
 
 SDL project for providing a nice UWP port
+
 OpenTyrian team, whose work this is. The only changes I made were those neccessary to get it building on UWP.
