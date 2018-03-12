@@ -34,12 +34,327 @@
     <Image Include="Assets\StoreLogo.png">
       <Filter>Assets</Filter>
     </Image>
+    <Image Include="Assets\data\tyrian.ico">
+      <Filter>Assets</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest" />
   </ItemGroup>
   <ItemGroup>
     <None Include="OpenTyrian-UWP_TemporaryKey.pfx" />
+    <None Include="Assets\data\cubetxt1.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\cubetxt2.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\cubetxt3.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\cubetxt4.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\demo.1">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\demo.2">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\demo.3">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\demo.4">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\demo.5">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\dpmi16bi.ovl">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\estsc.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\exitmsg.bin">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\file_id.diz">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\file0001.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\file0002.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\helpme.doc">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\helpme.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\levels1.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\levels2.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\levels3.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\levels4.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\license.doc">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\loudness.awe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\manual.doc">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\music.mus">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netarena.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netarena.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netfont1.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netfont2.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netipx.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netmega.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netmodem.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netset.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netterm.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\netterm.int">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh#.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh^.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh~.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh0.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh1.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh2.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh3.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh4.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh5.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh6.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh7.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh8.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsh9.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsha.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshb.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshc.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshd.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshe.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshf.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshg.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshh.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshi.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshj.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshk.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshl.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshm.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshn.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsho.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshp.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshr.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshs.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newsht.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshu.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\newshv.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\order.doc">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\order.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\order.tfp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\palette.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\rtm.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\setup.box">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\setup.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\setup.ini">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\setup.int">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shapes).dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shapesw.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shapesx.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shapesy.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shapesz.dat">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shipedit.doc">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shipedit.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\shipedit.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tshp2.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrend.anm">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.cdt">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.exe">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.hdt">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.pic">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian.snd">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian1.lvl">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian2.lvl">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian3.lvl">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrian4.lvl">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrianc.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\tyrset.pcx">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\user1.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\user2.shp">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\voices.snd">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\data\voicesc.snd">
+      <Filter>Assets</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="opentyrian\animlib.c" />
@@ -149,5 +464,10 @@
     <ClInclude Include="opentyrian\video.h" />
     <ClInclude Include="opentyrian\video_scale.h" />
     <ClInclude Include="opentyrian\xmas.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Assets\data\modems.txt">
+      <Filter>Assets</Filter>
+    </Text>
   </ItemGroup>
 </Project>
