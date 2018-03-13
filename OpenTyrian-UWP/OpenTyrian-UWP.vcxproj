@@ -200,7 +200,6 @@
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Image Include="Assets\data\tyrian.ico" />
     <Image Include="Assets\LockScreenLogo.scale-200.png" />
     <Image Include="Assets\SplashScreen.scale-200.png" />
     <Image Include="Assets\Square150x150Logo.scale-200.png" />
@@ -213,110 +212,6 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <None Include="Assets\data\cubetxt1.dat" />
-    <None Include="Assets\data\cubetxt2.dat" />
-    <None Include="Assets\data\cubetxt3.dat" />
-    <None Include="Assets\data\cubetxt4.dat" />
-    <None Include="Assets\data\demo.1" />
-    <None Include="Assets\data\demo.2" />
-    <None Include="Assets\data\demo.3" />
-    <None Include="Assets\data\demo.4" />
-    <None Include="Assets\data\demo.5" />
-    <None Include="Assets\data\dpmi16bi.ovl" />
-    <None Include="Assets\data\estsc.shp" />
-    <None Include="Assets\data\exitmsg.bin" />
-    <None Include="Assets\data\file0001.exe" />
-    <None Include="Assets\data\file0002.exe" />
-    <None Include="Assets\data\file_id.diz" />
-    <None Include="Assets\data\helpme.doc" />
-    <None Include="Assets\data\helpme.exe" />
-    <None Include="Assets\data\levels1.dat" />
-    <None Include="Assets\data\levels2.dat" />
-    <None Include="Assets\data\levels3.dat" />
-    <None Include="Assets\data\levels4.dat" />
-    <None Include="Assets\data\license.doc" />
-    <None Include="Assets\data\loudness.awe" />
-    <None Include="Assets\data\manual.doc" />
-    <None Include="Assets\data\music.mus" />
-    <None Include="Assets\data\netarena.exe" />
-    <None Include="Assets\data\netarena.pcx" />
-    <None Include="Assets\data\netfont1.pcx" />
-    <None Include="Assets\data\netfont2.pcx" />
-    <None Include="Assets\data\netipx.exe" />
-    <None Include="Assets\data\netmega.pcx" />
-    <None Include="Assets\data\netmodem.exe" />
-    <None Include="Assets\data\netset.pcx" />
-    <None Include="Assets\data\netterm.exe" />
-    <None Include="Assets\data\netterm.int" />
-    <None Include="Assets\data\newsh#.shp" />
-    <None Include="Assets\data\newsh0.shp" />
-    <None Include="Assets\data\newsh1.shp" />
-    <None Include="Assets\data\newsh2.shp" />
-    <None Include="Assets\data\newsh3.shp" />
-    <None Include="Assets\data\newsh4.shp" />
-    <None Include="Assets\data\newsh5.shp" />
-    <None Include="Assets\data\newsh6.shp" />
-    <None Include="Assets\data\newsh7.shp" />
-    <None Include="Assets\data\newsh8.shp" />
-    <None Include="Assets\data\newsh9.shp" />
-    <None Include="Assets\data\newsha.shp" />
-    <None Include="Assets\data\newshb.shp" />
-    <None Include="Assets\data\newshc.shp" />
-    <None Include="Assets\data\newshd.shp" />
-    <None Include="Assets\data\newshe.shp" />
-    <None Include="Assets\data\newshf.shp" />
-    <None Include="Assets\data\newshg.shp" />
-    <None Include="Assets\data\newshh.shp" />
-    <None Include="Assets\data\newshi.shp" />
-    <None Include="Assets\data\newshj.shp" />
-    <None Include="Assets\data\newshk.shp" />
-    <None Include="Assets\data\newshl.shp" />
-    <None Include="Assets\data\newshm.shp" />
-    <None Include="Assets\data\newshn.shp" />
-    <None Include="Assets\data\newsho.shp" />
-    <None Include="Assets\data\newshp.shp" />
-    <None Include="Assets\data\newshr.shp" />
-    <None Include="Assets\data\newshs.shp" />
-    <None Include="Assets\data\newsht.shp" />
-    <None Include="Assets\data\newshu.shp" />
-    <None Include="Assets\data\newshv.shp" />
-    <None Include="Assets\data\newsh^.shp" />
-    <None Include="Assets\data\newsh~.shp" />
-    <None Include="Assets\data\order.doc" />
-    <None Include="Assets\data\order.exe" />
-    <None Include="Assets\data\order.tfp" />
-    <None Include="Assets\data\palette.dat" />
-    <None Include="Assets\data\rtm.exe" />
-    <None Include="Assets\data\setup.box" />
-    <None Include="Assets\data\setup.exe" />
-    <None Include="Assets\data\setup.ini" />
-    <None Include="Assets\data\setup.int" />
-    <None Include="Assets\data\shapes).dat" />
-    <None Include="Assets\data\shapesw.dat" />
-    <None Include="Assets\data\shapesx.dat" />
-    <None Include="Assets\data\shapesy.dat" />
-    <None Include="Assets\data\shapesz.dat" />
-    <None Include="Assets\data\shipedit.doc" />
-    <None Include="Assets\data\shipedit.exe" />
-    <None Include="Assets\data\shipedit.pcx" />
-    <None Include="Assets\data\tshp2.pcx" />
-    <None Include="Assets\data\tyrend.anm" />
-    <None Include="Assets\data\tyrian.cdt" />
-    <None Include="Assets\data\tyrian.exe" />
-    <None Include="Assets\data\tyrian.hdt" />
-    <None Include="Assets\data\tyrian.pic" />
-    <None Include="Assets\data\tyrian.shp" />
-    <None Include="Assets\data\tyrian.snd" />
-    <None Include="Assets\data\tyrian1.lvl" />
-    <None Include="Assets\data\tyrian2.lvl" />
-    <None Include="Assets\data\tyrian3.lvl" />
-    <None Include="Assets\data\tyrian4.lvl" />
-    <None Include="Assets\data\tyrianc.shp" />
-    <None Include="Assets\data\tyrset.pcx" />
-    <None Include="Assets\data\user1.shp" />
-    <None Include="Assets\data\user2.shp" />
-    <None Include="Assets\data\voices.snd" />
-    <None Include="Assets\data\voicesc.snd" />
     <None Include="OpenTyrian-UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -443,9 +338,6 @@
     <ClInclude Include="opentyrian\video.h" />
     <ClInclude Include="opentyrian\video_scale.h" />
     <ClInclude Include="opentyrian\xmas.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Assets\data\modems.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
